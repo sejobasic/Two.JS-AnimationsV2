@@ -1,0 +1,26 @@
+{
+  "name": "twojs-animations-v2",
+  "version": "1.0.0",
+  "description": "Playing around with shapes and animations using Two.js library and event listeners.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.6.1",
+    "two.js": "0.7.0-stable.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": [
+    "twojs",
+    "animations",
+    "two.js"
+  ]
+}
